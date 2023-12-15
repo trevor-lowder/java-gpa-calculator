@@ -11,7 +11,7 @@ The program will calculate and display the overall GPA.
 
 The GPA calculation follows a simple formula:
 
-\[ \text{GPA} = \frac{\text{Total Points}}{\text{Total Credits}} \]
+GPA = Total Points / Total Credits
 
 Where:
 - Total Points = Sum of (Grade Value * Credits) for each class.
