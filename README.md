@@ -21,7 +21,7 @@ Where:
 
 The program uses a custom exception, `InvalidGradeException`, to handle cases where the user enters an invalid letter grade. This exception is thrown by the `validateGrade` method.
 
-## Method: `validateGrade(String letterGrade) throws InvalidGradeException`
+## Method: `validateGrade(String letterGrade)`
 
 The `validateGrade` method ensures that the user-entered letter grade is valid. It throws an `InvalidGradeException` if the grade is not one of the accepted values (A, B, C, D, F).
 
